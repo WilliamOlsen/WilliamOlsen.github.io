@@ -1,9 +1,0 @@
----
-layout: home
-title: About
-permalink: /about/
----
-
-I'm a fifth year graduate student studying mathematics under the direction of David Gay at the University of Georgia.  
-
-![My picture of a trefoil](../trefoil.png){:class="img-responsive"}
