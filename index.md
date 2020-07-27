@@ -6,6 +6,6 @@ layout: home
 title: About
 ---
 
-I'm a fifth year graduate student studying mathematics under the direction of David Gay at the University of Georgia.  
+I currently hold an RTG postdoctoral position at the University of Virginia. Last year (Fall 2019 -- Spring 2020), I was a visitor at the Max Planck Institute for Mathethematics, in Bonn, Germany. I'm interested in smooth four-dimensional topology with specific interest in topics related to trisections of four-manifolds and Heegaard Floer homology. I recently finished my Ph.D. at the University of Georgia under the direction of David Gay.
 
-![My picture of a trefoil](../trefoil.png){:class="img-responsive"}
+<img src="WebsitePhoto.jpg" alt="drawing" width="450"/>
