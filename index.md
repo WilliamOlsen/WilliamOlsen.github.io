@@ -9,3 +9,7 @@ title: About
 I currently hold an RTG postdoctoral position at the University of Virginia. Last year (Fall 2019 -- Spring 2020), I was a visitor at the Max Planck Institute for Mathethematics, in Bonn, Germany. I'm interested in smooth four-dimensional topology with specific interest in topics related to trisections of four-manifolds and Heegaard Floer homology. I recently finished my Ph.D. at the University of Georgia under the direction of David Gay.
 
 <img src="WebsitePhoto.jpg" alt="drawing" width="450"/>
+
+Here's something you can intereact with.
+
+<iframe src="https://www.wolframcloud.com/obj/7d950a35-a40a-4340-9eb6-871230c8d744?_embed=iframe" width="600" height="800"></iframe>
