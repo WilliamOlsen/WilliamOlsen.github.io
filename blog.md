@@ -13,6 +13,10 @@ My previous work has focused on the interactions between trisections of four-man
 
 This is my blog. I like to write about the math ideas I have which, so far, have revolved around developing the theory of trisections in some shape or form. Sharing these ideas is meant to encourage discussions and collaborations with other people, so if any of these ideas catch your eye, feel free to send me an email.
 
+Here's a gif I made
+
+![Alt Text](DoubleVolcanoContourTrial.gif)
+
 
 {% if site.paginate %}
     {% assign posts = paginator.posts %}

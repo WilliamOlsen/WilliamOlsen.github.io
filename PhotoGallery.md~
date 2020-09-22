@@ -1,0 +1,9 @@
+---
+layout: page
+title: Photo gallery
+permalink: /photogallery
+---
+
+A photo gallery for MATH 2310. Enjoy.
+
+$$f(x) = x / (1 + x^{2} + y^{2}) $$ ![Alt Text](DoubleVolcanoContourTrial.gif)
