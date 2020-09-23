@@ -29,4 +29,4 @@ Here's the saddle contours:
 
 $$f(x,y) = y^{2} - x^{2} $$
 
-![Alt Text](betterSaddleContours.gif)
+![Alt Text](potatoChip.gif) | ![Alt Text](saddleContour.gif)
